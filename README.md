@@ -1,1 +1,2 @@
-# ads-egsw-caio-leonardo
+# Site Fortnite
+Este site é um fã-site informativo e temático sobre o universo Fortnite. Ele foi desenvolvido para fornecer aos usuários uma visão visual e interativa dos principais elementos do jogo. A página principal apresenta a estrutura HTML para o conteúdo, o CSS que aplica um design vibrante e coeso inspirado na estética de universo Fortnite, e o JavaScript que garante a interatividade.
